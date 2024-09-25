@@ -19,6 +19,12 @@ include '../config/koneksi.php';
   <title>Website Galeri Foto</title>
   <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
+  <style>
+    body {
+      background-image: url('../assets/img/background.jpg');
+      background-size: cover;
+    }
+  </style>
 </head>
 <body>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
